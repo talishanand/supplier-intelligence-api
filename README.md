@@ -4,7 +4,7 @@ Aegis AI is an AI-native third-party risk investigation layer. It turns fragment
 information into an evidence-backed intelligence object that an enterprise AI
 agent can consume before onboarding, procurement, or investment decisions.
 
-**Live demo:** <https://supplier-intelligence-api-1062146216736.us-central1.run.app>
+**Live demo:**  https://supplier-intelligence-api.onrender.com
 (interactive UI, or `POST /api/v1/supplier/investigate`)
 
 ```
